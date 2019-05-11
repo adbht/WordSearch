@@ -5,10 +5,9 @@ A Word Search Application for iOS
 
 <img src="https://github.com/adbht/Shopify-iOS-Challenge-F19/blob/master/Images/launchScreen.png" width="200" /> <img src="https://github.com/adbht/Shopify-iOS-Challenge-F19/blob/master/Images/noWordsFound.png" width="200" /> <img src="https://github.com/adbht/Shopify-iOS-Challenge-F19/blob/master/Images/allWordsFound.png" width="200" /> <img src="https://github.com/adbht/Shopify-iOS-Challenge-F19/blob/master/Images/alertMessage.png" width="200" /> 
 
-<img src="https://github.com/adbht/Shopify-iOS-Challenge-F19/blob/master/Images/landscapeSupport.png" width="700" /> 
+<img src="https://github.com/adbht/Shopify-iOS-Challenge-F19/blob/master/Images/landscapeSupport.png" width="400" /> <img src="https://github.com/adbht/Shopify-iOS-Challenge-F19/blob/master/Images/landscapeSupport2.png" width="400" /> 
 
-<img src="https://github.com/adbht/Shopify-iOS-Challenge-F19/blob/master/Images/seSupport.png" width="350" /> 
-<img src="https://github.com/adbht/Shopify-iOS-Challenge-F19/blob/master/Images/xsSupport.png" width="350" /> 
+<img src="https://github.com/adbht/Shopify-iOS-Challenge-F19/blob/master/Images/seSupport.png" width="400" /> <img src="https://github.com/adbht/Shopify-iOS-Challenge-F19/blob/master/Images/xsSupport.png" width="400" /> 
 
 ## Features
 This application supports the following features:
