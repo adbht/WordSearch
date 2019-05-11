@@ -10,7 +10,6 @@ A Word Search Application for iOS
 <img src="https://github.com/adbht/Shopify-iOS-Challenge-F19/blob/master/Images/seSupport.png" width="400" /> <img src="https://github.com/adbht/Shopify-iOS-Challenge-F19/blob/master/Images/xsSupport.png" width="400" /> 
 
 ## Features
-This application supports the following features:
    - Supported for all iPhone screen sizes
    - Taptic feedback support for iPhone 7 and above
    - Includes all words requested including 2 extra words
