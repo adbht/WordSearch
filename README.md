@@ -11,8 +11,8 @@ A Word Search Application for iOS
 
 ## Features
 This application supports the following features:
-   - Supported on all iPhones
-   - Taptic feedback support on finding the words for iPhones 7 and above
+   - Supported for all iPhone screen sizes
+   - Taptic feedback support for iPhone 7 and above
    - Includes all words requested including 2 extra words
    - Keeps track of how many words the user has found
    - Randomizes where the words are places
