@@ -2,13 +2,13 @@
 A Word Search Application for iOS.
 
 ## Screen Shots
-<img src="https://github.com/adbht/Shopify-iOS-Challenge-F19/blob/master/Images/launchScreen.jpg" width="200" /> <img src="https://github.com/adbht/Shopify-iOS-Challenge-F19/blob/master/Images/noWordsFound.jpg" width="200" /> <img src="https://github.com/adbht/Shopify-iOS-Challenge-F19/blob/master/Images/someWordsFound.jpg" width="200" /> <img src="https://github.com/adbht/Shopify-iOS-Challenge-F19/blob/master/Images/allWordsFound.jpg" width="200" /> 
+<img src="https://github.com/adbht/Shopify-iOS-Challenge-F19/blob/master/Images/launchScreen.JPG" width="200" /> <img src="https://github.com/adbht/Shopify-iOS-Challenge-F19/blob/master/Images/noWordsFound.JPG" width="200" /> <img src="https://github.com/adbht/Shopify-iOS-Challenge-F19/blob/master/Images/someWordsFound.JPG" width="200" /> <img src="https://github.com/adbht/Shopify-iOS-Challenge-F19/blob/master/Images/allWordsFound.JPG" width="200" /> 
 
 ### Landscape Support
-<img src="https://github.com/adbht/Shopify-iOS-Challenge-F19/blob/master/Images/landscape1.jpg" width="400" /> <img src="https://github.com/adbht/Shopify-iOS-Challenge-F19/blob/master/Images/landscape2.jpg" width="400" /> 
+<img src="https://github.com/adbht/Shopify-iOS-Challenge-F19/blob/master/Images/landscape1.JPG" width="400" /> <img src="https://github.com/adbht/Shopify-iOS-Challenge-F19/blob/master/Images/landscape2.JPG" width="400" /> 
 
 ### Supported for all iPhones
-<img src="https://github.com/adbht/Shopify-iOS-Challenge-F19/blob/master/Images/seSupport.png" width="400" /> <img src="https://github.com/adbht/Shopify-iOS-Challenge-F19/blob/master/Images/xsSupport.jpeg" width="400" /> 
+<img src="https://github.com/adbht/Shopify-iOS-Challenge-F19/blob/master/Images/seSupport.png" width="600" /> <img src="https://github.com/adbht/Shopify-iOS-Challenge-F19/blob/master/Images/xsSupport.jpeg" width="200" /> 
 
 ## Features
    - Supported for all iPhone screen sizes
