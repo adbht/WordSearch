@@ -8,7 +8,7 @@ A Word Search Application for iOS.
 <img src="https://github.com/adbht/Shopify-iOS-Challenge-F19/blob/master/Images/landscape1.JPG" width="400" /> <img src="https://github.com/adbht/Shopify-iOS-Challenge-F19/blob/master/Images/landscape2.JPG" width="400" /> 
 
 ### Supported for all iPhones
-<img src="https://github.com/adbht/Shopify-iOS-Challenge-F19/blob/master/Images/seSupport.png" width="500" /> <img src="https://github.com/adbht/Shopify-iOS-Challenge-F19/blob/master/Images/xsSupport.jpeg" width="300" /> 
+<img src="https://github.com/adbht/Shopify-iOS-Challenge-F19/blob/master/Images/seSupport.png" width="550" /> <img src="https://github.com/adbht/Shopify-iOS-Challenge-F19/blob/master/Images/xsSupport.jpeg" width="250" /> 
 
 ## Features
    - Supported for all iPhone screen sizes
