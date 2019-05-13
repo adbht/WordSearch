@@ -14,6 +14,7 @@ A Word Search Application for iOS.
    - Taptic feedback support for iPhone 7 and above
    - Audio feedback for finding right or wrong words
    - Swipe gestures supported for quick selections
+   - Smooth animations for swipe gestures
    - Keeps track of how many words the user has found
    - Randomizes where the words are placed on the grid
    - Supports landscape and portrait orientation
