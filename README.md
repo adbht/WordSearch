@@ -2,7 +2,7 @@
 A Word Search Application for iOS.
 
 ## GIF
-<img src="https://upload.wikimedia.org/wikipedia/en/4/48/Blank.JPG" width="270" />                                                         <img src="https://github.com/adbht/Shopify-iOS-Challenge-F19/blob/master/Images/gameplay.gif" width="330" />
+<img src="https://upload.wikimedia.org/wikipedia/en/4/48/Blank.JPG" width="265" />                                                         <img src="https://github.com/adbht/Shopify-iOS-Challenge-F19/blob/master/Images/gameplay.gif" width="265" />
 
 ## Screenshots
 <img src="https://github.com/adbht/Shopify-iOS-Challenge-F19/blob/master/Images/launchScreen.JPG" width="265" /> <img src="https://github.com/adbht/Shopify-iOS-Challenge-F19/blob/master/Images/noWordsFound.JPG" width="265" /> <img src="https://github.com/adbht/Shopify-iOS-Challenge-F19/blob/master/Images/allWordsFound.JPG" width="265" /> 
