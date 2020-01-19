@@ -2,11 +2,7 @@
 A Word Search Application for iOS.
 
 ## Screenshots
-<img src="https://github.com/adbht/WordSearch-Shopify-Challenge/blob/master/Images/noWordsFound.jpg" width="530" align="middle"/> 
-
-<img src="https://github.com/adbht/WordSearch-Shopify-Challenge/blob/master/Images/someWordsFound.jpg" width="530" align="middle"/> 
-
-<img src="https://github.com/adbht/WordSearch-Shopify-Challenge/blob/master/Images/allWordsFound.jpg" width="530" align="middle"/> 
+<img src="https://github.com/adbht/WordSearch-Shopify-Challenge/blob/master/Images/noWordsFound.jpeg" width="265"/> <img src="https://github.com/adbht/WordSearch-Shopify-Challenge/blob/master/Images/someWordsFound.jpeg" width="265"/> <img src="https://github.com/adbht/WordSearch-Shopify-Challenge/blob/master/Images/allWordsFound.jpeg" width="265"/> 
 
 ### Supports landscape orientation
 <img src="https://upload.wikimedia.org/wikipedia/en/4/48/Blank.JPG" width="100" />                                                         <img src="https://github.com/adbht/Shopify-iOS-Challenge-F19/blob/master/Images/landscape1.JPG" width="600" />
