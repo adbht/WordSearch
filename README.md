@@ -1,4 +1,4 @@
-# Shopify iOS Development Challenge (Fall 2019)
+# Shopify iOS Development Challenge
 A Word Search Application for iOS.
 
 ## GIF
