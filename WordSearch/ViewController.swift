@@ -376,6 +376,7 @@ class ViewController: UIViewController {
         for subView in row.subviews {
             guard let label = subView as? UILabel else { return }
             let title = label.text ?? ""
+            label.attributedText = nil
             label.text?.removeAll()
             label.text = title
         }
