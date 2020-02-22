@@ -1,5 +1,4 @@
-# Shopify iOS Development Challenge
-A Word Search Application for iOS.
+# A Word Search Application for iOS.
 
 ## Screenshots
 <img src="https://github.com/adbht/WordSearch-Shopify-Challenge/blob/master/Images/noWordsFound.jpeg" width="265"/> <img src="https://github.com/adbht/WordSearch-Shopify-Challenge/blob/master/Images/someWordsFound.jpeg" width="265"/> <img src="https://github.com/adbht/WordSearch-Shopify-Challenge/blob/master/Images/allWordsFound.jpeg" width="265"/> 
